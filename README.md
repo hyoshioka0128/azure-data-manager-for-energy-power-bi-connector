@@ -2,7 +2,7 @@
 
 ## About
 
-This project is the Microsoft Azure Data Manager for Energy Power BI connector. The connector is used to query data from a Azure Data Manager for Energy instance and display it in Power BI reports.
+This project is the Microsoft Azure Data Manager for Energy Power BI connector. The connector is used to query data from an Azure Data Manager for Energy instance and display it in Power BI reports.
 
 ## Using the Connector
 
